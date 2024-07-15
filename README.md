@@ -37,9 +37,7 @@ I am a B.Tech student specializing in Computer Science & Engineering at Vellore 
 
 ## 🌐 Connect with Me
 - 📧 Email: [chanakya.exe@gmail.com](mailto:chanakya.exe@gmail.com)
-- 🌐 [LinkedIn](your-linkedin-url)
-- 🌐 [GitHub](your-github-url)
-- 🌐 [Portfolio](your-portfolio-url)
-- 🌐 [LeetCode](your-leetcode-url)
+- 🌐 [LinkedIn]((https://www.linkedin.com/in/chanakya-bhardwaj-m-4953b4232/))
+- 🌐 [LeetCode]((https://leetcode.com/u/chanakya-ex3/))
 
 Feel free to check out my repositories and let's connect!
