@@ -5,11 +5,11 @@ I am a B.Tech student specializing in Computer Science & Engineering at Vellore 
 ## 🎓 Education
 - **B.Tech in Computer Science & Engineering**  
   Vellore Institute of Technology, Chennai, Tamil Nadu  
-  CGPA: 8.49/10 (2021-2025)
+  (2021-2025)
 
 - **Higher Secondary Education**  
   Kendriya Vidyalaya, Chennai, Tamil Nadu  
-  Grade: 87.4/100 (2019-2021)
+  (2019-2021)
 
 ## 🔧 Technical Skills
 - **Frontend:** React.js, Flutter, Tailwind CSS
