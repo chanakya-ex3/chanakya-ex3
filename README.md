@@ -22,7 +22,6 @@ I am a B.Tech student specializing in Computer Science & Engineering at Vellore 
 - **Software Development Intern**  
   Infra4sight Technologies Pvt Ltd (May 2024 - Present)  
   - Developed dynamic, responsive UIs in a collaborative team.
-  - Utilized AWS to enhance project scalability, security, and performance.
   - Contributed to code reviews and development process improvements.
 
 - **Application Developer Intern**  
