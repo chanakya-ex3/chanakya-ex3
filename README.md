@@ -18,18 +18,6 @@ I am a B.Tech student specializing in Computer Science & Engineering at Vellore 
 - **Cloud:** AWS, Cloud Architecture, AWS Development
 - **Coursework:** Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Machine Learning
 
-## 💼 Work Experience
-- **Software Development Intern**  
-  Infra4sight Technologies Pvt Ltd (May 2024 - Present)  
-  - Developed dynamic, responsive UIs in a collaborative team.
-  - Contributed to code reviews and development process improvements.
-
-- **Application Developer Intern**  
-  Opera Project Management Consultants Pvt Ltd (Aug 2023 - Nov 2023)  
-  - Developed a full-stack app with Flutter and Firebase.
-  - Implemented Firebase for backend functionality and security.
-  - Delivered high-quality software ahead of deadlines.
-
 ## 🎖️ Certifications
 - AWS Certified Developer Associate (Score: 810/1000)
 - AWS Certified Solutions Architect Associate (Score: 838/1000)
