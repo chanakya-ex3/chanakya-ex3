@@ -1,4 +1,5 @@
 # Hi there! I'm Chanakya Bhardwaj Mudunuru 👋
+Not much on my GitHub because I mostly write code that makes money
 
 I am a B.Tech student specializing in Computer Science & Engineering at Vellore Institute of Technology Chennai. I have a passion for Full Stack Development and Machine Learning, with hands-on experience in building dynamic applications.
 
